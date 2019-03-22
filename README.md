@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I'm actively looking for any job; and public support, a trial with a council, resources and funding for <a href="https://iwr-wasteless.github.io/iwr/">this proposal</a> to reduce waste, with similar schemes that have already been successfully implemented in Sweden, Germany and Denmark. Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with 9 recyclable collection streams collected in bags monthly or bimonthly; and some other improvements like cleaning up dumped waste; optional electronic locks for bins; and locked gate systems for apartments; as demonstrated successfully in Sweden, Germany and Denmark. Sign <a href="http:// https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/">this petition</a>. My background in reverse chronological order is with working in the Ethereum sector for a year and a half, working in the renewable energy industry for a few years, studying a bachelor of renewable energy engineering, and various other "training ground" roles.
+I'm actively looking for any job. My background in reverse chronological order is with working in the Ethereum sector for a year and a half, working in the renewable energy industry for a few years, studying a bachelor of renewable energy engineering, and various other "training ground" roles.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -39,6 +39,10 @@ Skills include:
 
 ## Apply
 Interested in me being on your team? Apply <a href="https://github.com/jamesray1/hire-me/">here</a> for a public application (you get to advertise at the same time!), or leave a comment below. Fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url" target="_blank" rel="noreferrer noopener">this form</a> for a private application.
+
+## Incentivizing Waste Reduction
+Founder, Feb 2019 to March 2019
+This was a brief period looking into weight-based pricing for waste. For more information (FMI), see [https://iwr-wasteless.github.io/iwr/](https://iwr-wasteless.github.io/iwr/). "Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with 9 recyclable collection streams collected in bags monthly or bimonthly; and some other improvements like cleaning up dumped waste; optional electronic locks for bins; and locked gate systems for apartments; as demonstrated successfully in Sweden, Germany and Denmark"  Sign <a href="http:// https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/">this petition</a>.
 
 ## Crypto sector experience
 
