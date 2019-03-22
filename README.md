@@ -157,4 +157,4 @@ I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a>&nbsp;s
 
 <a href="https://about.me/james.ray" target="_blank" rel="noreferrer noopener" aria-label="https://about.me/james.ray (opens in a new tab)">https://about.me/james.ray</a>.
 
-This page is edited at https://github.com/iwr-wasteless/iwr.
+This page is edited at [https://github.com/jamesray1/cv/](https://github.com/jamesray1/cv/).
