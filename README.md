@@ -122,6 +122,6 @@ Warehouse dispatch as an entry level store team member at Woolworths Mascot Onli
 
 I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a>&nbsp;since 2012 until late 2016, including with engineering students.
 
-### >See also
+### See also
 
 <a href="https://about.me/james.ray" target="_blank" rel="noreferrer noopener" aria-label="https://about.me/james.ray (opens in a new tab)">https://about.me/james.ray</a>.
