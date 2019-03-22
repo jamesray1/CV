@@ -147,12 +147,12 @@ Honours thesis: a technical, economic, and policy analysis of sustainable energy
 
 <hr class="wp-block-separator"/>
 
-### My training ground
+## My "training ground"
 
 Warehouse dispatch as an entry level store team member at Woolworths Mascot Online (10 February 2016-4 May 2016); gardening for several clients from roughly 2005–2015; candidate sourcing; marketing; sales; retail; project management; cleaning; data entry; forklift operation; and general labour.
 
 I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a>&nbsp;since 2012 until late 2016, including with engineering students.
 
-### See also
+## See also
 
 <a href="https://about.me/james.ray" target="_blank" rel="noreferrer noopener" aria-label="https://about.me/james.ray (opens in a new tab)">https://about.me/james.ray</a>.
