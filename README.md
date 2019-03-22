@@ -10,6 +10,7 @@ I'm actively looking for any job. My background in reverse chronological order i
 
 - [Skills](#skills)
 - [Apply](#apply)
+- [Incentivizing Waste Reduction](#incentivizing-waste-reduction)
 - [Crypto sector experience](#crypto-sector-experience)
   - [<a href="https://github.com/libp2p/rust-libp2p/pull/767">Gossipsub</a> development](#a-hrefhttpsgithubcomlibp2prust-libp2ppull767gossipsuba-development)
   - [<a href="http://pokt.network" target="_blank" rel="noopener noreferrer">Pocket Network</a> Advisor](#a-hrefhttppoktnetwork-target_blank-relnoopener-noreferrerpocket-networka-advisor)
