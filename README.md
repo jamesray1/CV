@@ -1,3 +1,9 @@
+# James Ray's CV
+
+## Introduction
+
+I'm actively looking for any job; and public support, a trial with a council, resources and funding for <a href="https://iwr-wasteless.github.io/iwr/">this proposal</a> to reduce waste, with similar schemes that have already been successfully implemented in Sweden,  Germany and Denmark. Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with 9 recyclable collection streams collected in bags monthly or bimonthly; and some other improvements like cleaning up dumped waste; optional electronic locks for bins; and locked gate systems for apartments; as demonstrated successfully in Sweden, Germany and Denmark. Sign <a href="http:// https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/">this petition</a>. My background in reverse chronological order is with decentralized messaging protocol development (<a href="https://github.com/libp2p/rust-libp2p/pull/767">gossipsub</a>), Eth 2 development (to a deprecated spec using a sharding manager contract) with <a href="https://github.com/Drops-of-Diamond/Diamond-drops">Drops of Diamond</a>, contributing to Ethereum research and docs, working in the renewable energy industry, studying a bachelor of renewable energy engineering, and various other "training ground" roles.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
@@ -25,12 +31,6 @@
     - [See also](#see-also)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# James Ray's CV
-
-## Introduction
-
-I'm actively looking for any job; and public support, a trial with a council, resources and funding for <a href="https://iwr-wasteless.github.io/iwr/">this proposal</a> to reduce waste, with similar schemes that have already been successfully implemented in Sweden,  Germany and Denmark. Use a scale built into a garbage truck to measure the net weight of residual and organic waste bins, and charge the bin's rate payer on a per kg basis for this waste (e.g. 60 c/kg AUD and 20 c/kg, respectively), with 9 recyclable collection streams collected in bags monthly or bimonthly; and some other improvements like cleaning up dumped waste; optional electronic locks for bins; and locked gate systems for apartments; as demonstrated successfully in Sweden, Germany and Denmark. Sign <a href="http:// https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/">this petition</a>. My background in reverse chronological order is with decentralized messaging protocol development (<a href="https://github.com/libp2p/rust-libp2p/pull/767">gossipsub</a>), Eth 2 development (to a deprecated spec using a sharding manager contract) with <a href="https://github.com/Drops-of-Diamond/Diamond-drops">Drops of Diamond</a>, contributing to Ethereum research and docs, working in the renewable energy industry, studying a bachelor of renewable energy engineering, and various other "training ground" roles.
 
 ## Skills
 
