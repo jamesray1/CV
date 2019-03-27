@@ -20,6 +20,6 @@
 
 I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)). 
 
-## [Skills](skills.md).
+## [Skills](skills.md)
 
 ## [See also](see-also.md)
