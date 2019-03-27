@@ -20,9 +20,7 @@ See [here](sustainability-projects.md) for project experience.
 
 ## Education
 
-Bachelor of Engineering (Renewable Energy) at the University of New South Wales, 2011–2014. <a href="https://www.slideshare.net/slideshow/embed_code/key/JMesqzjt4AcnW" target="_blank" rel="noopener noreferrer">Here is a link to an outdated version of my academic transcript</a>, although the WAM of 72.7 isn't particularly impressive. I have graduated and need to upload the latest version.
-
-Honours thesis: a technical, economic, and policy analysis of sustainable energy measures for homes. The thesis is available <a href="https://1sustainablelife.wordpress.com/2014/10/28/energy-wise-homes/" target="_blank" rel="noopener noreferrer">here</a>.
+Bachelor of Engineering (Renewable Energy) at the University of New South Wales, 2011–2014. <a href="https://www.slideshare.net/slideshow/embed_code/key/JMesqzjt4AcnW" target="_blank" rel="noopener noreferrer">Here is a link to an outdated version of my academic transcript</a>, although the WAM of 72.7 isn't particularly impressive. I have graduated and need to upload the latest version. My honours thesis was a technical, economic, and policy analysis of sustainable energy measures for homes. The thesis is available <a href="https://1sustainablelife.wordpress.com/2014/10/28/energy-wise-homes/" target="_blank" rel="noopener noreferrer">here</a>.
 
 I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)). See also [my skills](skills.md).
 
