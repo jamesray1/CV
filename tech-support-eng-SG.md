@@ -1,22 +1,19 @@
-My achievements as a Technical Support Engineer at [Sungrow](https://en.sungrowpower.com/) include:
-* providing after sales service support through telephone and email—answering and resolving enquiries (e.g. [troubleshooting](troubleshooting.md), installation enquiries, monitoring assistance, product enquiries, warranty claims, and other warranty enquiries) from end users, installers, and distributors.
-* composing and editing documents/texts (including a knowledge bank, editing datasheets and user manuals, troubleshooting for fault codes, user manual extracts; WiFi setting, resetting and FAQs; the Sungrow website);  and 
-* recording voiceovers for videos;
-* suggesting the development of [a website for Australia](https://www.sungrowpower.com.au/) (which is intended more for after sales support, but does include product info), overseeing its development by another colleague on Zoho sites (including proofreading, composing the above documents to include on it, and the design), then editing it myself, including adding a bot, more documents, updating and adding links e.g. to surveys and a map of service partners, installers and contractors (all of which I made), and other minor edits / proofreading.
-* designing, collecting and handling responses for surveys for customers for warranty cases, general cases and for installers;
-* training technical support engineers;
-* presenting at an Australian Solar Council installer training event in South Australia to promote our solar hybrid inverter and battery system, the PowCube 4.8, consisting of the SH5K inverter and the SBP4K8 battery;
-* managing logistics, warehouse and inventory control;
+My achievements and key responsibilities as a Technical Support Engineer at [Sungrow](https://en.sungrowpower.com/) include:
+* providing after sales service support through telephone and email—answering and resolving enquiries from end users, installers, and distributors. Enquiries include about technical issues, installation, monitoring assistance, product enquiries, warranty claims, and other warranty enquiries.
+* composing and editing documents, including a knowledge bank, editing datasheets and user manuals, troubleshooting for fault codes, user manual extracts; WiFi setting, resetting and FAQs; and the Sungrow website;
 * liaising with electrical contractors to organise on-site service;
-* providing feedback for existing products and services and for potential growth areas with new product development, such as improvements to the LCD, automatic settings adjustment for certain faults and CT clamp design. More feedback has been kept and may be available on request.
-* improving efficiency with canned responses in Gmail (later using Zoho with Templates), including Dropbox links (later using Google Drive); data entry with more streamlined spreadsheets (including adding spreadsheets for enquiries that need following up, and feedback spreadsheets); and procuring headsets instead of using a handset for the phones;
+* managing logistics, warehouse and inventory control;
+* training technical support engineers;
+
+Projects included:
+* investigating requirements from AEMO, TNSPs & DNSPs for utility scale inverters and liaising between staff and these exernal paries to refine a model of a utility scale inverter to meet these requirements.
+* suggesting the development of [a website for Australia](https://www.sungrowpower.com.au/), overseeing its development by another colleague on Zoho sites, and improving it myself, including design, editing, experimenting with a bot and expanding the knowledge base;
+* providing feedback for existing products and services and for potential growth areas with new product development, such as improvements to the LCD, automatic settings adjustment for certain faults and CT clamp design.
+* improving efficiency: for emails with Zoho Desk; spreadsheets; and procuring headsets instead of using a handset for the phones;
+* recording voiceovers for videos and assisting with their creation;
+* presenting at an Australian Solar Council installer training event in South Australia to promote our solar hybrid inverter and battery system, the PowCube 4.8, consisting of the SH5K inverter and the SBP4K8 battery;
+* creating Twitter accounts for a global account, [@SungrowPowerSCo](https://twitter.com/sungrowpowersco), and an Australian account, [@SungrowPowerAU](https://twitter.com/SungrowPowerAU)
 * creating and managing a survey for customers who had their inverter replaced, collecting responses via email and phone, analysing results, and following up on feedback for improvement;
-* creating Twitter accounts for a global account, [@SungrowPowerSCo](https://twitter.com/sungrowpowersco), and an Australian account, [@SungrowPowerAU](https://twitter.com/SungrowPowerAU), while giving access to both accounts to a colleague about a week or two after creating the Australian account;
-* investigating requirements from TNSPs & DNSPs for utility scale inverters;
-* contacting customers of an installer—who is a defendant of a lawsuit;
-* other research and ad-hoc projects; and
-* additional documentation of tasks has been recorded via Zoho Projects.
 
 <!--I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.-->
-
-In February 2018 I will discontinue work in the position, the reason for that is available [here](https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/).
+The position was terminated because my manager wanted me to work full-time, whereas I wanted to continue working in the crypto sector.
