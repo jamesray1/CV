@@ -1,12 +1,14 @@
 # James Ray's resume
 
+Hurlstone Park NSW 2193     | Contact via 
+
 ## [Crypto sector experience](crypto-industry-experience.md)
 
 2017-06–2019-02
 
 ## Renewable energy experience
 
-### [Technical Support Engineer]((tech-support-eng-SG.md)) at [Sungrow Australia Group](https://www.sungrowpower.com.au/)
+### [Technical Support Engineer]((tech-support-eng-SG.md)) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
 2017-03—2018-02
 
