@@ -10,7 +10,7 @@ See [here](crypto-industry-experience.md) for more information (FMI).
 
 ### Technical Support Engineer / Customer Service Representative at Sungrow
 
-March 2016—February 2018
+March 2017—February 2018
 
 See <a href="https://github.com/jamesray1/work-log/blob/master/Sungrow-log.md" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for tasks completed, and <a href="https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/" target="_blank" rel="noopener noreferrer">here</a> for the reason for leaving.
 
