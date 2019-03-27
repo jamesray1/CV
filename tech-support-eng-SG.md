@@ -1,10 +1,8 @@
-Sungrow is the leading global (by capacity of shipments) inverter equipment manufacturer for solar and wind power converters, providing residential, commercial and utility scale inverters, with headquarters in China. Sungrow has shipped over 8 GW of inverter capacity globally so far in 2016.
-
-My achievements include:
-* providing after sales service support through telephone and email—answering and resolving enquiries (e.g. troubleshooting, installation enquiries, monitoring assistance, product enquiries, warranty claims, and other warranty enquiries) from end users, installers, and distributors.
+My achievements as a Technical Support Engineer at [Sungrow](https://en.sungrowpower.com/) include:
+* providing after sales service support through telephone and email—answering and resolving enquiries (e.g. [troubleshooting](troubleshooting.md), installation enquiries, monitoring assistance, product enquiries, warranty claims, and other warranty enquiries) from end users, installers, and distributors.
 * composing and editing documents/texts (including a knowledge bank, editing datasheets and user manuals, troubleshooting for fault codes, user manual extracts; WiFi setting, resetting and FAQs; the Sungrow website);  and 
 * recording voiceovers for videos;
-* suggesting the development of [a website for Australia](https://www.sungrowpower.com.au/) (which is intended more for after sales support, but does include product info), overseeing it's development by another colleague on Zoho sites (including proofreading, composing the above documents to include on it, and the design), then editing it myself, including adding a bot, more documents, updating and adding links e.g. to surveys and a map of service partners, installers and contractors (all of which I made), and other minor edits / proofreading.
+* suggesting the development of [a website for Australia](https://www.sungrowpower.com.au/) (which is intended more for after sales support, but does include product info), overseeing its development by another colleague on Zoho sites (including proofreading, composing the above documents to include on it, and the design), then editing it myself, including adding a bot, more documents, updating and adding links e.g. to surveys and a map of service partners, installers and contractors (all of which I made), and other minor edits / proofreading.
 * designing, collecting and handling responses for surveys for customers for warranty cases, general cases and for installers;
 * training technical support engineers;
 * presenting at an Australian Solar Council installer training event in South Australia to promote our solar hybrid inverter and battery system, the PowCube 4.8, consisting of the SH5K inverter and the SBP4K8 battery;
@@ -19,6 +17,6 @@ My achievements include:
 * other research and ad-hoc projects; and
 * additional documentation of tasks has been recorded via Zoho Projects.
 
-I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.
+<!--I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.-->
 
 In February 2018 I will discontinue work in the position, the reason for that is available [here](https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/).
