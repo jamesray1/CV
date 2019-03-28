@@ -30,4 +30,4 @@ Self-study: sustainable energy, blockchains, programming, project management.
 
 ## [See also](see-also.md)
 
-[Skills](skills.md), interests
+[Skills](skills.md), [interests](https://about.me/james.ray)
