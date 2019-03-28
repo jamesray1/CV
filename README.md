@@ -2,7 +2,7 @@
 
 Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url)
 
-## [Ethereum 2.0 developer, researcher and technical writer](crypto-industry-experience.md)
+### [Ethereum 2.0 developer, researcher and technical writer](crypto-industry-experience.md)
 
 2017-06–2019-02. Fintech, gossipsub, libp2p, blockchain, cryptography, Rust programming, sharding, scalability, consensus and network protocols.
 
@@ -16,8 +16,8 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 **Todae Solar**: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
 **Solar Analyics**: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
 
-## Education
+### Education
 
 [B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Programming, project management. 
 
-[See also](see-also.md): [Other short-term, casual or intermittent roles](training-ground.md), [skills](skills.md), [interests](https://about.me/james.ray).
+[Other short-term, casual or intermittent roles](training-ground.md), [skills](skills.md), [interests](https://about.me/james.ray), [See also](see-also.md).
