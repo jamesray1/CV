@@ -18,8 +18,6 @@ Solar Energy Enterprises: new product development, pre-design, feasibility, grid
 Todae Solar: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
 Solar Analyics: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
 
-Tutoring, engineering, maths, physics, english, all ages. Woolworths: warehouse dispatch. Forklift operator license. Gardening.
-
 ## Education
 
 [Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at the University of New South Wales, 2011–2014.
