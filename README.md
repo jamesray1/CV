@@ -28,6 +28,6 @@ Tutoring, engineering, maths, physics, english, all ages. Woolworths: warehouse 
 
 Self-study: sustainable energy, blockchains, programming, project management. 
 
-## [Skills](skills.md)
-
 ## [See also](see-also.md)
+
+[Skills](skills.md), interests
