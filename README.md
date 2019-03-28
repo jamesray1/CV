@@ -20,4 +20,4 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 [B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Programming, project management. 
 
-[Other short-term, casual or intermittent roles](training-ground.md), [skills](skills.md), [interests](https://about.me/james.ray), [See also](see-also.md).
+[Other short-term, casual or intermittent roles](training-ground.md), [skills](skills.md), [interests](https://about.me/james.ray), [see also](see-also.md).
