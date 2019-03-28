@@ -8,7 +8,7 @@ Sydney, Australia | [Hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGa
 
 ## Renewable energy experience
 
-### [Technical Support Engineer]((tech-support-eng-SG.md)) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
+### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
 2017-03—2018-02
 
