@@ -1,6 +1,6 @@
 # James Ray's resume
 
-Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url),
+Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url)
 
 ## [Crypto sector experience](crypto-industry-experience.md)
 
