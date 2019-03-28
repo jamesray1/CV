@@ -1,4 +1,4 @@
-Warehouse dispatch at Woolworths Mascot Online (10 February 2017–4 May 2017); candidate sourcing; forklift operation license; gardening for several clients from roughly 2005–2015; sales; lead generation; retail; cleaning.
+Warehouse dispatch at Woolworths Mascot Online (February–May 2017); candidate sourcing; forklift operation license; gardening for several clients from roughly 2005–2015; sales; lead generation; retail; cleaning.
 
 ### Founding Principal Tutor at TuWorks
 
