@@ -14,15 +14,13 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ### [Projects / short-term roles](sustainability-projects.md)
 
-Solar Energy Enterprises: new product development, pre-design, feasibility, grid connection applications, door-to-door solar lead generation.
-Todae Solar: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
-Solar Analyics: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
+**Solar Energy Enterprises**: new product development, pre-design, feasibility, grid connection applications, door-to-door solar lead generation.
+**Todae Solar**: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
+**Solar Analyics**: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
 
 ## Education
 
-[Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at the University of New South Wales, 2011–2014.
-
-Self-study: sustainable energy, blockchains, programming, project management. 
+[Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at UNSW, 2011–2014. Self-study: sustainable energy, blockchains, programming, project management. 
 
 ## [See also](see-also.md)
 
