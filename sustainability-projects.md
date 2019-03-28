@@ -27,7 +27,7 @@ I also provided sales assistance and technical support at an expo and as a door-
 
 ### Operations/Engineering Assistant at Solar Analytics
 
-I worked in a full-time intern position from February to March 2015. Data analysis, solar system health checks, operations, monitoring, procurement, assembly. See [here](operations-assistant-solar-analytics) FMI. 
+I worked in a full-time intern position from February to March 2015. Data analysis, solar system health checks, operations, monitoring, procurement, assembly. See [here](operations-assistant-solar-analytics.md) FMI. 
 
 ### Village Infrastructure
 
