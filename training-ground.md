@@ -1,4 +1,4 @@
-Warehouse dispatch as an entry level store team member at Woolworths Mascot Online (10 February 2017–4 May 2017); gardening for several clients from roughly 2005–2015; candidate sourcing; marketing; sales; retail; project management; cleaning; data entry; forklift operation license; and general labour.
+Warehouse dispatch at Woolworths Mascot Online (10 February 2017–4 May 2017); candidate sourcing; forklift operation license; gardening for several clients from roughly 2005–2015; sales; lead generation; retail; cleaning.
 
 ### Founding Principal Tutor at TuWorks
 
