@@ -4,7 +4,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ## [Crypto sector experience](crypto-industry-experience.md)
 
-2017-06–2019-02. Ethereum 2.0, gossipsub, libp2p, blockchain, research, cryptography, Rust, programming, sharding, scalability, consensus protocols, Holochain, technical writing.
+2017-06–2019-02. Ethereum 2.0, gossipsub, libp2p, blockchain, cryptography, Rust, programming, sharding, scalability, consensus protocols, Holochain, technical writing.
 
 ## Renewable energy experience
 
@@ -20,7 +20,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ## Education
 
-[B of Eng (Renewable Energy) (Hons)](education.md) at UNSW, 2011–2014. Sustainable energy, blockchains, programming, project management. 
+[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Programming, project management. 
 
 ## [See also](see-also.md)
 
