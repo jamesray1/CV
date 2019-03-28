@@ -21,4 +21,5 @@ Roles include:
 
 [B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Programming, project management. 
 
+---------
 [Skills](skills.md), [interests](https://about.me/james.ray), [see also](see-also.md).
