@@ -16,7 +16,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 Solar Energy Enterprises: new product development, pre-design, feasibility, grid connection applications, door-to-door solar lead generation.
 Todae Solar: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
-Solar Analyics: operations, monitoring, procurement, assembly.
+Solar Analyics: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
 Village Infrastructure: solar agroprocessing equipment research and writing.
 
 ## [Other short-term, casual or intermittent roles](training-ground.md)
