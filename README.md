@@ -27,7 +27,7 @@ Tutoring, engineering, maths, physics, english, all ages. Woolworths: warehouse 
 
 [Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at the University of New South Wales, 2011–2014.
 
-Self-study: blockchains, sustainable energy, project management. 
+Self-study: sustainable energy, blockchains, programming, project management. 
 
 ## [Skills](skills.md)
 
