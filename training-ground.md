@@ -1,6 +1,6 @@
 Warehouse dispatch at Woolworths Mascot Online (February–May 2017); candidate sourcing; forklift operation license; 
 
-### Founding Principal Tutor at [TuWorks](https://tuworks.co/)
+### Founding Tutor at [TuWorks](https://tuworks.co/)
 
 July 2012–2016
 
