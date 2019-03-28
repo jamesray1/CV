@@ -1,11 +1,11 @@
-## Incentivizing Waste Reduction
+### Incentivizing Waste Reduction
 Founder, Feb 2019 to March 2019
 
 This was a brief period looking into weight-based pricing for waste. Gaining traction with the proposal would involve a council trialing it, which requires political will. Hence, sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/)!
 
 ### Solar Engineer at Solar Energy Enterprises
 
-Two days a week from 12 July 2017—29 August 2017 doing residential and solar solar project management, which included roof feasibility studies for solar installation and grid applications. I finished the work by my choice because I wanted to focus more time on Ethereum, and could've been working full-time at Sungrow if I had wanted to (which I didn't).
+Two days a week from 12 July 2017—29 August 2017 doing residential and solar solar project management, which included roof feasibility studies for solar installation, and grid applications. I finished the work by my choice because I wanted to focus more time on Ethereum, and could've been working full-time at Sungrow if I had wanted to (which I didn't). 
 
 ### Independent researcher on the sustainable energy industry
 
@@ -17,7 +17,7 @@ Notes on my findings can be found <a href="https://sustergy.co/sustainable-energ
 
 Nov 2015
 
-This was a feasibility study or pre-design. More information is available [here](project-assistant-todate-solar.md).
+This was a feasibility study or pre-design. Solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets. More information is available [here](project-assistant-todate-solar.md).
 
 ### Product Development Manager at Solar Energy Enterprises
 
@@ -27,7 +27,7 @@ I also provided sales assistance and technical support at an expo and as a door-
 
 ### Operations/Engineering Assistant at Solar Analytics
 
-I worked in a full-time position from the 23rd of February 2015 to the 13th of March 2015. See [here](operations-assistant-solar-analytics) FMI.
+I worked in a full-time intern position from February to March 2015. Data analysis, solar system health checks, operations, monitoring, procurement, assembly. See [here](operations-assistant-solar-analytics) FMI. 
 
 ### Village Infrastructure
 
