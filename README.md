@@ -18,8 +18,6 @@ Solar Energy Enterprises: new product development, pre-design, feasibility, grid
 Todae Solar: solar sytem pre-design, feasibility studies, Nearmap, project management, spreadsheets.
 Solar Analyics: data analysis, solar system health checks, operations, monitoring, procurement, assembly.
 
-## [Other short-term, casual or intermittent roles](training-ground.md)
-
 Tutoring, engineering, maths, physics, english, all ages. Woolworths: warehouse dispatch. Forklift operator license. Gardening.
 
 ## Education
@@ -30,4 +28,4 @@ Self-study: sustainable energy, blockchains, programming, project management.
 
 ## [See also](see-also.md)
 
-[Skills](skills.md), [interests](https://about.me/james.ray)
+[Other short-term, casual or intermittent roles](https://jamesray1.github.io/cv/training-ground.html), [skills](skills.md), [interests](https://about.me/james.ray).
