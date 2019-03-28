@@ -20,7 +20,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ## Education
 
-[Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at UNSW, 2011–2014. Self-study: sustainable energy, blockchains, programming, project management. 
+[Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at UNSW, 2011–2014. Sustainable energy, blockchains, programming, project management. 
 
 ## [See also](see-also.md)
 
