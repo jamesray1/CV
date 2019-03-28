@@ -20,8 +20,8 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ## Education
 
-[Bachelor of Engineering (Renewable Energy) (Honours)](education.md) at UNSW, 2011–2014. Sustainable energy, blockchains, programming, project management. 
+[B of Eng (Renewable Energy) (Hons)](education.md) at UNSW, 2011–2014. Sustainable energy, blockchains, programming, project management. 
 
 ## [See also](see-also.md)
 
-[Other short-term, casual or intermittent roles](https://jamesray1.github.io/cv/training-ground.html), [skills](skills.md), [interests](https://about.me/james.ray).
+[Other short-term, casual or intermittent roles](training-ground.md), [skills](skills.md), [interests](https://about.me/james.ray).
