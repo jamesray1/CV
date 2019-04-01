@@ -31,4 +31,7 @@ I worked in a full-time intern position from February to March 2015. Data analys
 
 ### Village Infrastructure
 
-This was more of a project that took about a few days work in around late 2015. I was a consultant pitching for funds for a contest for solar agroprocessing in developing countries. 
+This was more of a project that took about a few days work in around late 2015. I was a consultant pitching for funds for a contest for solar agroprocessing in developing countries.
+
+### Other roles not with renewable energy
+See [here](training-ground.md).
