@@ -8,7 +8,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 ### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
-2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, product feedback.
+2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback.
 
 ### [Projects and short-term, casual, or intermittent roles](projects.md)
 
@@ -19,7 +19,7 @@ Roles include:
 
 ### Education
 
-[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Programming, project management. 
+[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Solar system design, installation, analysis, PVSyst, line diagrams, tender submission; wind energy converters, feasibility studies; energy efficiency, environmmentally sustainable design (ESD); spreadsheets; thermodynamics, fluid mechanics; life cycle assessment; etc. Programming, project management. 
 
 ---------
 [Skills](skills.md), [interests](https://about.me/james.ray), [see also](see-also.md).
