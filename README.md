@@ -2,9 +2,9 @@
 
 Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url)
 
-### [Ethereum 2.0 developer, researcher and technical writer](crypto-industry-experience.md)
+### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
-2017-06–2019-02. Fintech, gossipsub, libp2p, blockchain, cryptography, Rust programming, sharding, scalability, consensus and network protocols.
+2017-06–2019-02. Fintech, gossipsub, libp2p, blockchain, cryptography, Rust programming, sharding, scalability, consensus and network protocols, Ethereum 2.0, Holochain, Substrate, Wasm, Javascript, Go, Python, etc.
 
 ### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
