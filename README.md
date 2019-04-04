@@ -10,16 +10,14 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback.
 
-### [Projects and short-term, casual, or intermittent roles](projects.md)
+### [Projects and short-term, casual, or intermittent roles](projects.md) including:
 
-Roles include:
 - **Solar Energy Enterprises**: new product development, pre-design, feasibility, grid connection applications, and door-to-door solar lead generation;
 - **Todae Solar**: solar sytem pre-design, feasibility studies, Nearmap, project management, and spreadsheets;
 - **Solar Analyics**: data analysis, solar system health checks, operations, monitoring, procurement, and assembly.
 
 ### Education
 
-[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Solar system design, installation, analysis, PVSyst, line diagrams, tender submission; wind energy converters, feasibility studies; energy efficiency, environmmentally sustainable design (ESD); spreadsheets; thermodynamics, fluid mechanics; life cycle assessment; etc. Programming, project management. 
+[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014: solar system design, installation, analysis, PVSyst, line diagrams, tender submission; wind energy converters, feasibility studies; energy efficiency, environmmentally sustainable design (ESD); spreadsheets; thermodynamics, fluid mechanics; life cycle assessment; etc. Self-study: programming, crypto. Coursera: project management, mechanics.
 
----------
 [Skills](skills.md), [interests](https://about.me/james.ray), [see also](see-also.md).
