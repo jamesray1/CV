@@ -14,7 +14,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 - **Solar Energy Enterprises**: product development, pre-design, feasibility, grid connection applications, and lead generation;
 - **Todae Solar**: solar sytem pre-design, feasibility studies, Nearmap, project management, and spreadsheets;
-- **Solar Analyics**: data analysis, solar system health checks, operations, monitoring, procurement, and assembly.
+- **Solar Analyics**: data analysis, spreadsheets, bill analysis, solar system health checks, operations, monitoring, procurement, and assembly.
 
 ### Education
 
