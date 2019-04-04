@@ -10,7 +10,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback.
 
-### [Projects and short-term, casual, or intermittent roles](projects.md) including:
+### [Projects and short-term, casual, or intermittent roles](projects.md) e.g.:
 
 - **Solar Energy Enterprises**: product development, pre-design, feasibility, grid connection applications, and lead generation;
 - **Todae Solar**: solar sytem pre-design, feasibility studies, Nearmap, project management, and spreadsheets;
