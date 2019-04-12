@@ -2,6 +2,10 @@
 
 Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url)
 
+#### Rust [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
+
+2019-04–present
+
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
 2017-06–2019-02. Fintech, gossipsub, libp2p, blockchain, cryptography, Rust programming, sharding, scalability, consensus and network protocols, Ethereum 2.0, Holochain, Substrate, Wasm, Javascript, Go, Python, C++.
