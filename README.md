@@ -4,11 +4,11 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 #### Rust [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
 
-2019-04–present
+2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), Albatross consensus, Enso virtual machine, Substrate.
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
-2017-06–2019-02. Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, Ethereum 2.0, [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
+2017-06–2019-02. WRfS. Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, Ethereum 2.0, [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
 
 #### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
