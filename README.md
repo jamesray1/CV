@@ -1,6 +1,6 @@
 ### James Christopher Ray's resume
 
-Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url)
+Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url), [hosted at GitHub](https://github.com/jamesray1/cv)
 
 #### Rust [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
 
