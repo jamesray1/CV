@@ -4,7 +4,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 #### Rust [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
 
-2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), Albatross consensus, Enso virtual machine, Substrate.
+2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), Albatross consensus, Enso virtual machine, Substrate, Algorithmic Contract Types Unified Standards (ACTUS), Town Crier authenticated data feed, Polkadot multichain, token exchange.
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
