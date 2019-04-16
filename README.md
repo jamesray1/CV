@@ -2,13 +2,13 @@
 
 Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url), [hosted at GitHub](https://github.com/jamesray1/cv)
 
-#### Rust [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
+#### [Rust](https://www.rust-lang.org/) [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
 
-2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), Albatross consensus, Enso virtual machine, Substrate, Algorithmic Contract Types Unified Standards (ACTUS), Town Crier authenticated data feed, Polkadot multichain, token exchange.
+2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), [Albatross](https://katallassos.com/papers/Albatross.pdf) consensus, [Enso](https://katallassos.com/papers/Enso.pdf) virtual machine, [Substrate](https://www.parity.io/substrate/), [Algorithmic Contract Types Unified Standards (ACTUS)](https://docs.wixstatic.com/ugd/3df5e2_eceb16e5f7f14d11903a6412aebb9e4a.pdf), Town Crier authenticated data feed, [Polkadot](https://polkadot.network/) multichain, token exchange.
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
-2017-06–2019-02. WRfS. Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, Ethereum 2.0, [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
+2017-06–2019-02. WRfS. Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, [Ethereum](https://ethereum.org/) [2.0](https://github.com/ethereum/eth2.0-specs), [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
 
 #### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
