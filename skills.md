@@ -8,4 +8,4 @@ Skills include:
 - Distributed app framework / holochain / blockchain study and development, see e.g. <a href="https://ethresear.ch/u/jamesray1/">https://ethresear.ch/u/jamesray1/</a>, e.g. scaling architecture, consensus protocols, libp2p, and cryptography.</li><li>Libp2p, see gossipsub below.
 - Warehouse dispatching; forklift driver license; car license; motorcycle license; retail; sales; writing; research; gardening; etc.</li></ul>
 
-I am also always willing to learn new skills where useful.
+I am also always willing to learn new skills where useful and needed.
