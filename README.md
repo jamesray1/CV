@@ -4,7 +4,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 #### [Rust](https://www.rust-lang.org/) [Katallassos](https://Katallassos.com) blockchain developer for [Trinkler Software](https://trinkler.software)
 
-2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), [Albatross](https://katallassos.com/papers/Albatross.pdf) consensus, [Enso](https://katallassos.com/papers/Enso.pdf) virtual machine, [Substrate](https://www.parity.io/substrate/), [Algorithmic Contract Types Unified Standards (ACTUS)](https://docs.wixstatic.com/ugd/3df5e2_eceb16e5f7f14d11903a6412aebb9e4a.pdf), Town Crier authenticated data feed, [Polkadot](https://polkadot.network/) multichain, token exchange.
+2019-04–present. Working remotely from Sydney (WRfS). Decentralised finance (defi), [Albatross](https://katallassos.com/papers/Albatross.pdf) consensus, [Enso](https://katallassos.com/papers/Enso.pdf) virtual machine, [Substrate](https://www.parity.io/substrate/), [Algorithmic Contract Types Unified Standards (ACTUS)](https://docs.wixstatic.com/ugd/3df5e2_eceb16e5f7f14d11903a6412aebb9e4a.pdf), Town Crier authenticated data feed, oracles, [Polkadot](https://polkadot.network/) multichain, token exchange.
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
