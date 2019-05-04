@@ -4,7 +4,7 @@ Sydney, Australia, [hire form](https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGad
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
-2017-06–2019-04. WRfS. Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, [Ethereum](https://ethereum.org/) [2.0](https://github.com/ethereum/eth2.0-specs), [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
+2017-06–2019-04. Sydney (remote). Fintech, [gossipsub](https://github.com/libp2p/rust-libp2p/pull/767), [libp2p](https://libp2p.io), blockchain, cryptography, [Rust](https://www.rust-lang.org/), sharding, [Drops of Diamond](https://github.com/Drops-of-Diamond/diamond_drops), scalability, consensus and network protocols, [Ethereum](https://ethereum.org/) [2.0](https://github.com/ethereum/eth2.0-specs), [Holochain](https://holochain.org), [Substrate](https://www.parity.io/substrate/), [Wasm](https://webassembly.org/), Javascript, Go, Python, C++.
 
 #### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
