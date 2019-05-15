@@ -29,5 +29,4 @@ I also provided sales assistance and technical support at an expo and as a door-
 
 This was more of a project that took about a few days work in around late 2015. I was a consultant pitching for funds for a contest for solar agroprocessing in developing countries.
 
-### Other roles not with renewable energy
-See [here](training-ground.md).
+### [Other roles not with renewable energy](training-ground.md)
