@@ -25,10 +25,6 @@ I worked about 4 hours a week for several weeks in mid-2015 as a product develop
 
 I also provided sales assistance and technical support at an expo and as a door-to-door lead generator doorknocker in late 2014 / early 2015.
 
-### Operations/Engineering Assistant at Solar Analytics
-
-I worked in a full-time intern position from February to March 2015. Data analysis, solar system health checks, operations, monitoring, procurement, assembly. See [here](operations-assistant-solar-analytics.md) FMI. 
-
 ### Village Infrastructure
 
 This was more of a project that took about a few days work in around late 2015. I was a consultant pitching for funds for a contest for solar agroprocessing in developing countries.
