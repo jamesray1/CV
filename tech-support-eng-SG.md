@@ -17,4 +17,4 @@ Projects included:
 * creating and managing a survey for customers who had their inverter replaced, collecting responses via email and phone, analysing results, and following up on feedback for improvement;
 
 <!--I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.-->
-The position was terminated in Feb 2018 because my manager wanted me to work full-time, whereas I wanted to continue working in the crypto sector. However, and as detailed [here](https://jamesray1.github.io/cv/crypto-industry-experience.html), I haven't been able to get funding for my work in the crypto sector, so I started looking for a job from Feb 2019.
+The position was terminated in Feb 2018 because my manager wanted me to work full-time, whereas I wanted to continue working in the crypto sector. However, and as detailed [here](crypto-industry-experience.md#reason-for-ending-gossipsub-and-ethereum-20-development), I haven't been able to get funding for my work in the crypto sector, so I started looking for a job from Feb 2019.
