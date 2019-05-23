@@ -1,7 +1,8 @@
 Due to insufficient funding for gossipsub and Eth 2 development, after working on these projects for over a year, and contributing in the Ethereum sector part-time then full time since June 2017 and Feb 2018, respectively, trying unsuccessfully to get a grant or job with Ethereum after much effort, I'm looking for a job. I'm focusing on getting a job in the renewable energy industry, as this
 is where I have the most experience. There also aren't as many jobs in the crypto sector compared to the renewable industry. I worked in the crypto sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance, and still does.
 
-### Other work
+### Other independent study and work
+Feb 2019–present
 
 I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, and think it has more potential than blockchains. Tender also looks very promising, allowing for zero-fee transactions, while providing and using the unlimited scalability of Holochain. Nevertheless, blockchains do improve on the status quo of more centralized, traditional finance. I just think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform.
 
