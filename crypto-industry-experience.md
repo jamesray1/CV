@@ -11,7 +11,7 @@ Holochain pros:
 
 Cons:
 
-- rather than using consensus, mutual and reputational credit hinges on KYC. But perhaps this isn't such a bad thing, and you could potentially have a web-of-trust like mechanism (a la [KILT](https://www.youtube.com/watch?v=BrflSdCOLvE&list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)) to decentralise the KYC and trust. More details are below, or above. Additionally, if you don't need to transact currencies, and just transfer data, then Holochain, Secure Scuttlebutt, and Dat Protocol are more suitable than blockchains, with the above advantages. Not enforcing universal consensus is what enables unlimited scalability.
+- rather than using consensus, mutual and reputational credit, if used to transact, hinges on KYC. But perhaps using KYC isn't such a bad thing, and you could potentially have a web-of-trust like mechanism (a la [KILT](https://www.youtube.com/watch?v=BrflSdCOLvE&list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)) to decentralise the KYC and trust, and also enable the ability to revoke trust from any entity at any time. Additionally, if you don't need to transact currencies, and just transfer data, then Holochain, [Secure Scuttlebutt](https://www.scuttlebutt.nz/), and [Dat Protocol](https://www.datprotocol.com/) are more suitable than blockchains, with Holochain having the above advantages. Not enforcing universal consensus is what enables unlimited scalability.
 
 ### <a href="https://github.com/libp2p/rust-libp2p/pull/767">Gossipsub</a> development
 
