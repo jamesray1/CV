@@ -1,4 +1,6 @@
-### Technical Support Engineer
+### Technical Support Engineer at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
+> 2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback, improving operational efficiency, training.
+
 My achievements and key responsibilities as a Technical Support Engineer at [Sungrow](https://en.sungrowpower.com/) include:
 * providing after sales service support through telephone and email—answering and resolving enquiries from end users, installers, and distributors. Enquiries include about technical issues, installation, monitoring assistance, product enquiries, warranty claims, and other warranty enquiries.
 * composing and editing documents, including a knowledge bank, editing datasheets and user manuals, troubleshooting for fault codes, user manual extracts; WiFi setting, resetting and FAQs; and the Sungrow website;
