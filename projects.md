@@ -1,7 +1,7 @@
 ### Incentivizing Waste Reduction
 Founder, Feb 2019 to March 2019
 
-This was a brief period looking into weight-based pricing for waste. Gaining traction with the proposal would involve a council trialing it, which requires political will. See [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_worldwide_Provide_more_bin_sizes_and_sort_more_waste_to_reduce_waste_to_landfill/).
+This was a brief period looking into weight-based pricing for waste. Gaining traction with the proposal would involve a council trialing it, which requires political will. See [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_worldwide_Provide_more_bin_sizes_and_sort_more_waste_to_reduce_waste_to_landfill/) for providing multiple bin sizes with different rates, and [this petition: Weigh residual and organic wastes, charge by weight, and add multiple recyclable streams](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/).
 
 ### Solar Engineer at Solar Energy Enterprises
 
