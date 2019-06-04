@@ -1,13 +1,15 @@
 ### Further independent study and work
 Feb 2019–present
 
-I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, and think it has more potential than blockchains. Tender also looks very promising, allowing for zero-fee transactions, while providing and using the unlimited scalability of Holochain. Nevertheless, blockchains do improve on the status quo of more centralized, traditional finance. I just think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform, since everything that you can do on a blockchain can be done with Holochain.
+I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, has a design inspired by nature, as well as pulling together the best of decentralized technology. 
 
 The following are some ways you can see my contributions to the Holochain ecosystem (in addition to information you can find via https://holochain.org/ and https://holo.host/) with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
 - on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974)
 - in the Mattermost chat server at [chat.holochain.org/](https://chat.holochain.org/)
 - [Reddit](https://www.reddit.com/user/jamescray1/) (in r/holochain)
 - [Twitter](https://twitter.com/JamesChrRay)
+
+I think Holochain has more potential than blockchains. Blockchains try to improve on the status quo of more centralized, traditional finance, but they haven't succeeded in scaling yet. I think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform, since everything that you can do on a blockchain can be done with Holochain.
 
 ### <a href="https://github.com/libp2p/rust-libp2p/pull/767">Gossipsub</a> development
 
