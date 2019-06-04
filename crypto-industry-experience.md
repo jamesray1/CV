@@ -1,7 +1,7 @@
 ### Further independent study and work
 Feb 2019–present
 
-I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, has a design inspired by nature, as well as pulling together the best of decentralized technology. 
+I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity. It has a design inspired by nature. It combines the best of decentralized technology, such as DHTs, dual pair key cryptography and signatures, hashing, and git.
 
 The following are some ways you can see my contributions to the Holochain ecosystem (in addition to information you can find via https://holochain.org/ and https://holo.host/) with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
 - on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974)
