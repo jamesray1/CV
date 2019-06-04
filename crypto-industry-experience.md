@@ -19,8 +19,7 @@ A scalable, efficient, extensible baseline pubsub (publish-subscribe, messaging)
 
 #### Reason for ending Gossipsub and Ethereum 2.0 development
 
-Due to insufficient funding for gossipsub and Eth 2 development, after working on these projects for over a year, and contributing in the Ethereum sector part-time then full time since June 2017 and Feb 2018, respectively, trying unsuccessfully to get a grant or job with Ethereum after much effort, I'm looking for a job. I'm focusing on getting a job in the renewable energy industry, as this
-is where I have the most experience. There also aren't as many jobs in the crypto sector compared to the renewable industry. I worked in the crypto sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance, and still does.
+Due to insufficient funding for gossipsub and Eth 2 development, after working on these projects for over a year, and contributing in the Ethereum sector part-time then full time since June 2017 and Feb 2018, respectively, trying unsuccessfully to get a grant or job with Ethereum after much effort, I'm looking for a job. I worked in the crypto sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance, and still does, but with more potential with Holochain.
 
 ### <a href="http://pokt.network" target="_blank" rel="noopener noreferrer">Pocket Network</a> Protocol Advisor
 
