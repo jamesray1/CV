@@ -1,17 +1,13 @@
 ### Further independent study and work
 Feb 2019–present
 
-I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, and think it has more potential than blockchains. Tender also looks very promising, allowing for zero-fee transactions, while providing and using the unlimited scalability of Holochain. Nevertheless, blockchains do improve on the status quo of more centralized, traditional finance. I just think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform.
+I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, and think it has more potential than blockchains. Tender also looks very promising, allowing for zero-fee transactions, while providing and using the unlimited scalability of Holochain. Nevertheless, blockchains do improve on the status quo of more centralized, traditional finance. I just think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform, since everything that you can do on a blockchain can be done with Holochain.
 
-Holochain pros:
-
-- unlimited scalability
-- doesn't enforce universal consensus when every use case can do without it. Mutual and reputational credit can be used for transactions rather than fiat cryptocurrencies or tokens. You should be able to implement a blockchain as a Holochain happ, but again, this isn't necessary. Fiat currencies (including cryptocurrencies) have inherent centralization with the stakeholders controlling the currency, e.g. developers, miners, stakers, validators; although this could be mitigated with a DAO, but then governance of the DAO can be complicated and there hasn't been a secure demonstration yet.
-- You can build a full (stack) happ on Holochain, rather than just a smart contract. This allows all of the code, state and data for the happ to be decentralized, rather than only hosting some code e.g. on GitHub servers, plus the developers, testers, and early-adopters who host it on their local machines. If there is a fork in a node in one line of code, that node gets rejected by validators and must fork to its own happ to continue operating independently, or sync with the existing happ.
-
-Cons:
-
-- rather than using consensus, mutual and reputational credit, if used to transact, hinges on KYC. But perhaps using KYC isn't such a bad thing, and you could potentially have a web-of-trust like mechanism (a la [KILT](https://www.youtube.com/watch?v=BrflSdCOLvE&list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)) to decentralise the KYC and trust, and also enable the ability to revoke trust from any entity at any time. Additionally, if you don't need to transact currencies, and just transfer data, then Holochain, [Secure Scuttlebutt](https://www.scuttlebutt.nz/), and [Dat Protocol](https://www.datprotocol.com/) are more suitable than blockchains, with Holochain having the above advantages. Not enforcing universal consensus is what enables unlimited scalability.
+The following are some ways you can see my contributions to the Holochain ecosystem (in addition to the multitude of information you can find via https://holochain.org/) with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
+- on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974)
+- in the Mattermost chat server at [chat.holochain.org/](https://chat.holochain.org/)
+- [Reddit](https://www.reddit.com/user/jamescray1/) (in r/holochain)
+- [Twitter](https://twitter.com/JamesChrRay)
 
 ### <a href="https://github.com/libp2p/rust-libp2p/pull/767">Gossipsub</a> development
 
