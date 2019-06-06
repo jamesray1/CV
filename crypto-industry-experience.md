@@ -1,4 +1,4 @@
-### Further independent self-funded study, 
+### Further independent self-funded study
 Feb 2019–present
 
 Most of the time spent during this period has been with applying for jobs, followed by study and contributing voluntarily to Holochain, then followed by a couple of other projects. I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, in order to build a decentralized Web and economy, with [democratic power relationships](https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale/2018/06/26?cn-reloaded=1&cn-reloaded=1). It has a design inspired by nature. It combines the best of decentralized technology, such as DHTs, dual pair key cryptography and signatures, hashing, and git.
