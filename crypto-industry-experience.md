@@ -15,7 +15,7 @@ I think Holochain has more potential than blockchains. Blockchains try to improv
 
 ~Jun 2018–Feb 2019.
 
-A scalable, efficient, extensible baseline pubsub (publish-subscribe, messaging) protocol for p2p networks and decentralized applications on top of them. See <a href="https://github.com/libp2p/rust-libp2p/pull/767">here</a> for details. <a href="https://docs.google.com/spreadsheets/d/1Fv8XqLkMjdBkGPkVWfJulJU-5Qv6TSUR4oD5uKSEHW0/edit#gid=58883616">Timesheet (includes Drops of Diamond)</a>.
+A scalable, efficient, extensible baseline pubsub (publish-subscribe, messaging) protocol for p2p networks and decentralized applications on top of them. See <a href="https://github.com/libp2p/rust-libp2p/pull/767">here</a> for details. <!--<a href="https://docs.google.com/spreadsheets/d/1Fv8XqLkMjdBkGPkVWfJulJU-5Qv6TSUR4oD5uKSEHW0/edit#gid=58883616">Timesheet (includes Drops of Diamond)</a>.-->
 
 #### Reason for ending Gossipsub and Ethereum 2.0 development
 
