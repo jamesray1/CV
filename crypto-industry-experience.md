@@ -3,7 +3,7 @@ crypto industry when I started
 looking into peer-to-peer
 electricity trading with
 blockchains in 2017. I saw that Ethereum, a blockchain that is
-a distributed app platform, wasn't scalable so decided to
+a distributed app platform, wasn't scalable, so I decided to
 contribute towards making it more scalable. In February 2019,
 after around two years of involvement with Ethereum, and not
 being able to get enough funding to sustainably support work 
