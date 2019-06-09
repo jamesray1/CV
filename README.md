@@ -1,6 +1,6 @@
 ### James Christopher Ray's resume
 
-Hurlstone Park (inner west Sydney), Australia, [general contact](https://docs.google.com/forms/d/e/1FAIpQLSeY71SEvQhHWlspzkvw0odpfdjqdEyy8ORL8XtRMFMQkzYfQg/viewform), [hosted at GitHub](https://github.com/jamesray1/cv), [skills](skills.md), [interests](https://about.me/james.ray), [see also](see-also.md).
+Hurlstone Park (inner west Sydney), Australia, [general contact](https://docs.google.com/forms/d/e/1FAIpQLSeY71SEvQhHWlspzkvw0odpfdjqdEyy8ORL8XtRMFMQkzYfQg/viewform), [hosted at GitHub](https://github.com/jamesray1/cv), [skills](skills.md), [see also](see-also.md).
 
 #### [Crypto developer, researcher and technical writer](crypto-industry-experience.md)
 
