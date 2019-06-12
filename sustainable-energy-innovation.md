@@ -10,7 +10,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The Internet of Energy: this is a broad term for decentralized finance and other technologies and uses, which may use cryptographic databases such as <a href="https://holochain.org/">Holochain</a> or Ethereum for greater scalability, security, transparency, auditability, open data, etc., operating on a public network (such as the Internet). <a href="https://redgrid.io/">Redgrid</a> is one such example, as are others below.</p>
+<p>The Internet of Energy: this is a broad term for decentralized finance and other technologies and uses, which may use cryptographic technologies such as <a href="https://holochain.org/">Holochain</a> or blockchains like Ethereum for greater scalability, security, transparency, auditability, open data, etc., operating on a public network (such as the Internet). <a href="https://redgrid.io/">Redgrid</a> is one such example, as are others below.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -22,7 +22,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Running on top of the public Ethereum blockchain (with a token) is better than using a private blockchain, or worse, not running on a blockchain at all (thus requiring a trusted third party which increases transaction costs). Running on the public Ethereum blockchain is more secure than a private chain, since the public chain is much longer and has many nodes mining and verifying it. A private chain is more prone to different kinds of attacks, particularly a <a href="https://learncryptography.com/cryptocurrency/51-attack" target="_blank" rel="noopener noreferrer">51% attack</a>. Having open-source code is important to verify the security and performance of the software, as well as being able to innovate, e.g. with enhancements.</p>
+<p>Outdated paragraph—Holochain is better than Ethereum due to better scalability while having data integrity. Running on top of the public Ethereum blockchain (with a token) is better than using a private blockchain, or worse, not running on a blockchain at all (thus requiring a trusted third party which increases transaction costs). Running on the public Ethereum blockchain is more secure than a private chain, since the public chain is much longer and has many nodes mining and verifying it. A private chain is more prone to different kinds of attacks, particularly a <a href="https://learncryptography.com/cryptocurrency/51-attack" target="_blank" rel="noopener noreferrer">51% attack</a>. Having open-source code is important to verify the security and performance of the software, as well as being able to innovate, e.g. with enhancements.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -72,6 +72,8 @@
 <!-- wp:heading -->
 <h2><b>Demand Response Management</b></h2>
 <!-- /wp:heading -->
+
+Redgrid will develop an app on its platform for this.
 
 <!-- wp:paragraph -->
 <p><a href="https://www.greensync.com.au/" target="_blank" rel="noopener noreferrer">Greensync</a>: DRM for non-residential entities.</p>
@@ -135,8 +137,10 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://5b.com.au/">5B</a>: modularity, faster installation, reduced costs.</p>
+<p><a href="https://5b.com.au/">5B</a>: modularity, faster installation, relocatable ground-mounted solar, reduced costs.</p>
 <!-- /wp:paragraph -->
+
+[Solpod](https://www.solpod.com.au/): relocatable commercial solar.
 
 <!-- wp:heading -->
 <h2><b>Organisation structures</b></h2>
