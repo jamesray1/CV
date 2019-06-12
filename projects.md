@@ -11,7 +11,7 @@ Two days a week from 12 July 2017—29 August 2017 doing residential and solar s
 
 2011–2016 (this includes a Bachelor of Engineering in Renewable energy from 2011–14).
 
-Notes on my findings can be found <a href="https://sustergy.co/sustainable-energy-innovation/" target="_blank" rel="noopener noreferrer">here</a>.
+Notes on some of my findings can be found [here](sustainable-energy-innovation.md).
 
 ### Project/Engineering Assistant at Todae Solar
 
