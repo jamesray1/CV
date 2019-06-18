@@ -23,7 +23,7 @@ isn't fast enough. My hope is that a distributed Web and
 economy, powered by a secure and scalable platform such as 
 Holochain, may help to enable a transition to a fairer world.
 
-### Further independent work, study
+### Further independent work and study
 Feb 2019–present
 
 General tasks involved include doing some contractual work with a few projects, applying for jobs, and study and contributing voluntarily to Holochain. I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, in order to build a decentralized Web and economy, with [democratic power relationships](https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale/2018/06/26?cn-reloaded=1&cn-reloaded=1). It has a design inspired by nature. It combines the best of decentralized technology, such as DHTs, dual pair key cryptography and signatures, hashing, and git.
