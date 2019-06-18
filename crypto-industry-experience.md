@@ -30,8 +30,8 @@ General tasks involved include doing some contractual work with a few projects, 
 
 Support me via [Gitcoin](https://gitcoin.co/grants/106/holochain-core-development), [Patreon](https://www.patreon.com/), [PayPal](https://www.paypal.me/jamesray1) to develop Holochain.
 
-The following are some ways you can see my contributions to the Holochain ecosystem (in addition to information you can find via https://holochain.org/ and https://holo.host/) with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
-- on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974)
+The following are some ways you can see my contributions to the Holochain ecosystem with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
+- on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974).
 - in the Mattermost chat server at [chat.holochain.org/](https://chat.holochain.org/)
 - [Reddit](https://www.reddit.com/user/jamescray1/) (in r/holochain)
 - [Twitter](https://twitter.com/JamesChrRay)
