@@ -333,13 +333,3 @@ Redgrid will develop an app on its platform for this.
 <!-- wp:paragraph -->
 <p>If I had to rank the above innovations, I'd rank Redgrid <del>Reposit Power</del> first in tandem with conventional solar and energy storage. Following that would be solar paint. While it seems like a promising technology, it is not yet commercially available just yet. Redflow, Lightsail, and Gelion are promising too.</p>
 <!-- /wp:paragraph -->
-
-<!--
-<!-- wp:heading -->
-<h2>Non-technical aside</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>With so much happening in the sustainable energy industry, and with so much technology, it can be overwhelming! With advances in technology, it is important that we also advance on a spiritual level, not just a material and intellectual level. It is important not to be caught up in all these gadgets and try to find lasting happiness in life. If technology consists of people, consciousness, energy, and artefacts, then each person needs to "innovate" by elevating his/her consciousness, by practice of yoga methods, from mortal consciousness to soul consciousness (individualised Spirit), then to Christ Consciousness (the reflection of Spirit in all creation), and finally to Spirit, or Cosmic Consciousness—ever-existing, ever-conscious, ever-new bliss within and beyond all creation. As Bhagavan Krishna exhorted: "O Arjuna, get away from my ocean of suffering!" (Get away from the consciousness of this cosmos of duality, which is ties to never-ending cycles of births and deaths and pleasure and pain.</p>
-<!-- /wp:paragraph -->
--->
