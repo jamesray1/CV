@@ -11,7 +11,7 @@ being able to get enough funding to sustainably support work
 community members, and no grants from the Ethereum Foundation 
 for the bulk of my efforts), I started applying for jobs, and 
 found out about Holochain via a Rust developer job ad. 
-More information about the Holochain ecosystem is available via [holochain.org](https://holochain.org), [holo.host](https://holo.host) and [the MetaCurrency Project](http://metacurrency.org/).
+More information about the Holochain ecosystem is available via [holochain.org](https://holochain.org), [holo.host](https://holo.host), [this excellent video introduction](https://www.youtube.com/watch?v=W3X5_zAUjlw), and [the MetaCurrency Project](http://metacurrency.org/).
 
 While I
 didn't get that job, I've still been contributing. I am still 
