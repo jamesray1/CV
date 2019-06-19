@@ -10,7 +10,7 @@ Programming languages: mostly used [Rust](https://www.rust-lang.org/), but also 
 
 #### [Technical Support Engineer](tech-support-eng-SG.md) at [Sungrow](https://en.sungrowpower.com/) [Australia Group](https://www.sungrowpower.com.au/)
 
-2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback, improving operational efficiency, training.
+2017-03–2018-02. Inverters, batteries, fault rectification, warranty claims, monitoring, emails, phone calls, technical writing, installation support, residential, commercial, utility-scale, spreadsheets, repair, data entry, product feedback, improving operational efficiency, training others.
 
 #### [Projects and short-term, casual, or intermittent roles](projects.md) e.g.:
 
