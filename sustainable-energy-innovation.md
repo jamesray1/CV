@@ -3,7 +3,7 @@
 
 Following is an attempted summary of the different kinds of innovations needed:
 
-- Demand-side improvements: energy conservation, efficiency, demand-side response management, monitoring, control of appliances, IoT, more sustainable buildings (existing and new) and production of goods;
+- Demand-side improvements: energy conservation, efficiency, demand-side response management, monitoring, control of appliances, IoT, more sustainable buildings (existing and new) and life cycle, cradle-to-cradle, regenerative treatment of goods and services;
 - Supply-side improvements: [oversupply of renewables](https://theconversation.com/a-radical-idea-to-get-a-high-renewable-electric-grid-build-way-more-solar-and-wind-than-needed-113635) with a mix of solar, wind, and any storage like pumped hydro and batteries to meet gaps in production (which are reduced with oversupply); reducing costs in installation, manufacture, decommissioning, recycling; enabling more mobile PV systems, a la [5B](https://5b.com.au/) for ground-mounted systems and [Solpod](https://www.solpod.com.au/) for roof-mounted systems; 
 - Grid-improvements: More interconnection of grids over larger areas and with stronger links; virtual power plants/aggregation; peer-to-peer electricity trading
 - Finance improvements: [Clean Energy Investment Trusts (CEITs)](http://climatepolicyinitiative.org/wp-content/uploads/2016/06/Beyond-YieldCos-1.pdf), community renewable energy, PPAs, etc.
