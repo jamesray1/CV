@@ -18,6 +18,11 @@ Projects included:
 * creating Twitter accounts for a global account, [@SungrowPowerSCo](https://twitter.com/sungrowpowersco), and an Australian account, [@SungrowPowerAU](https://twitter.com/SungrowPowerAU)
 * creating and managing a survey for customers who had their inverter replaced, collecting responses via email and phone, analysing results, and following up on feedback for improvement;
 
+<!--I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.-->
+The position was terminated in Feb 2018 because my manager wanted me to work full-time, whereas I wanted to continue working in the crypto sector. However, and as detailed [here](crypto-industry-experience.md#reason-for-ending-gossipsub-and-ethereum-20-development), I haven't been able to get funding for my work in the crypto sector, so I started looking for a job from Feb 2019.
+
+**Please provide an example of a project or program you have developed, implemented and evaluated that demonstrates how you have applied your interpersonal communication, engagement, collaboration and stakeholder management skills in delivering a program or project.** 
+
 Following are some more detailed examples that demonstrate interpersonal skills, and other skills.
 
 There are more recent examples with work in the crypto sector, but as a Technical Support Engineer at Sungrow, I initiated and led efforts on developing an internal knowledge base, and external documentation, to improve the efficiency of handling technical support enquiries, as well as to more readily enable customers and solar installers to independently deal with enquiries, concerns and issues. I also proposed and oversaw the development of a website for the service team, which is available at https://www.sungrowpower.com.au/. I was responsible for editing and compiling the documentation. Much of the content and documentation available was prepared by myself.
@@ -30,5 +35,8 @@ Another project involved contacting the Vector Network in New Zealand, and follo
 
 Other projects such as the development of the website, creation of a Twitter account to share updates, and addition of a bot and live chat to the website, were met with limited enthusiasm, and required considerable influencing skills to get them up and running. The website and Twitter accounts are still online. Despite being able to answer many common enquiries, the chat bot and live chat were removed soon after I added them, as I was leaving the position and there was limited support available for them. Nevertheless, other websites do use live chat and chat bots.
 
-<!--I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.-->
-The position was terminated in Feb 2018 because my manager wanted me to work full-time, whereas I wanted to continue working in the crypto sector. However, and as detailed [here](crypto-industry-experience.md#reason-for-ending-gossipsub-and-ethereum-20-development), I haven't been able to get funding for my work in the crypto sector, so I started looking for a job from Feb 2019.
+**Please tell us about when you have had to coordinate multiple activities and deadlines. How did you go about this including your approach to managing projects?**
+
+At Sungrow, my first priority was customer service. Projects were addressed only after all emails and phone calls had been answered.
+
+My responsibilities grew to include work on a number of projects, such as the knowledge base project and others described previously. Although working on a variety of projects simultaneously was occasionally challenging, whenever there was any ambiguity about priorities, I sought clarification from my supervisor.
