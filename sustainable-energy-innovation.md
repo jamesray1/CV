@@ -331,5 +331,5 @@ Redgrid will develop an app on its platform for this.
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If I had to rank the above innovations, I'd rank Redgrid <del>Reposit Power</del> first in tandem with conventional solar and energy storage. Following that would be solar paint. While it seems like a promising technology, it is not yet commercially available just yet. Redflow, Lightsail, and Gelion are promising too.</p>
+<p>If I had to rank the above innovations, I'd rank Redgrid <del>Reposit Power</del> first in tandem with conventional solar and energy storage. Ubiquitous Energy, 5B and Solpod are also useful. Following that would be solar paint. While it seems like a promising technology, it is not yet commercially available just yet. Alternative battery/storage technologies such as Redflow (flow batteries), Lightsail (defunct, compressed air storage), and Gelion (zinc-bromine gel batteries) are also promising, in that they may become more economical than lithium ion batteries. </p>
 <!-- /wp:paragraph -->
