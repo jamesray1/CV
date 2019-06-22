@@ -1,5 +1,5 @@
 
-<p>This page has research on sustainable innovation from the idea stage of the technology life cycle through to commercial maturity, with technological measures also including policy and behavioural changes. Note that technology can be defined as a combination of people, artefacts (anything created, modified or used by people, which also includes institutions, organisations and policies) and knowledge. I do this research to find areas that I would be most interested in contributing my time, energy and money to in order to maximise positive impact; as well as sharing findings with others.</p>
+<p>This page has research on sustainable innovation from the idea stage of the technology life cycle through to commercial maturity, with technological measures also including policy and behavioural changes. Note that technology can be defined as a combination of people, artefacts (anything created, modified or used by people, which also includes institutions, organisations and policies) and knowledge. I do this research to find areas that I would be most interested in contributing my time, energy and money to in order to maximise positive impact; as well as sharing findings with others. It's a compendium of innovation that I've put together over the years.</p>
 
 Following is an attempted summary of some of the different kinds of innovations needed:
 
