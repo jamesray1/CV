@@ -38,6 +38,14 @@ The following are some ways you can see my contributions to the Holochain ecosys
 
 I think Holochain has more potential than blockchains. Blockchains try to improve on the status quo of more centralized, traditional finance, but they haven't succeeded in scaling yet. I think the energy spent on researching and building blockchains would seem more worthwhile being directed to Holochain, or a similar platform, since everything that you can do on a blockchain can be done with Holochain.
 
+### Locale advisor
+
+Contributed in a design sprint for 5 days as an advisor and worked with the team to build a prototype.
+
+Locale is looking to build an inventory management system on Holochain.
+
+Reviews are [here](https://www.linkedin.com/feed/update/urn:li:activity:6546460680185356288/) and [here](https://www.linkedin.com/in/jameschristopherray/).
+
 ### <a href="https://github.com/libp2p/rust-libp2p/pull/767">Gossipsub</a> development
 
 ~Jun 2018–Feb 2019.
