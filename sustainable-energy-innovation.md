@@ -1,3 +1,4 @@
+> We can’t solve problems by using the same kind of thinking we used when we created them.—[Albert Einstein](https://www.businessinsider.com.au/we-cant-solve-problems-by-using-the-same-kind-of-thinking-we-used-when-we-created-them-2012-4)
 
 <p>This page has research on sustainable innovation from the idea stage of the technology life cycle through to commercial maturity, with technological measures also including policy and behavioural changes. Note that technology can be defined as a combination of people, artefacts (anything created, modified or used by people, which also includes institutions, organisations and policies) and knowledge. I do this research to find areas that I would be most interested in contributing my time, energy and money to in order to maximise positive impact; as well as sharing findings with others. It's a compendium of innovation that I've put together over the years.</p>
 
