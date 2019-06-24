@@ -55,6 +55,10 @@ Following is an attempted summary of some of the different kinds of innovations 
 <p><a href="http://www.carbontrack.com.au/">Carbon Track</a>: solar and energy appliance monitoring and control, automation, spot market trading, etc.;</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":3648} -->
+<figure class="wp-block-image"><img src="https://sustergy.files.wordpress.com/2016/10/2016-12-09-12_10_41-welcome-to-carbontrack-intelligent-energy-management-iot.png" alt="2016-12-09 12_10_41-Welcome to carbonTRACK - Intelligent Energy Management &amp; IoT.png" class="wp-image-3648"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p><a href="http://www.smappee.com" target="_blank" rel="noopener noreferrer">Smappee</a></p>
 <!-- /wp:paragraph -->
