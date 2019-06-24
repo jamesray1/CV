@@ -9,9 +9,9 @@ Two days a week from 12 July 2017—29 August 2017 doing residential and solar s
 
 ### Independent researcher on the sustainable energy industry
 
-2011–2016 (this includes a Bachelor of Engineering in Renewable energy from 2011–14).
+2011–present (this includes a Bachelor of Engineering in Renewable energy from 2011–14).
 
-Notes on some of my findings can be found [here](sustainable-energy-innovation.md).
+Notes on some of my findings can be found [here](sustainable-energy-innovation-compenium.md).
 
 ### Project/Engineering Assistant at Todae Solar
 
