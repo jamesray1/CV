@@ -157,7 +157,7 @@ Redgrid will develop an app on its platform for this.
 <p><a href="https://5b.com.au/">5B</a>: modularity, faster installation, relocatable ground-mounted solar, reduced costs.</p>
 <!-- /wp:paragraph -->
 
-[Solpod](https://www.solpod.com.au/): relocatable commercial solar.
+<a href="https://www.solpod.com.au/">Solpod</a>: relocatable commercial solar.
 
 <!-- wp:heading -->
 <h2><b>Organisation structures</b></h2>
