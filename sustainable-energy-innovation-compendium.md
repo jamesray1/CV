@@ -1,3 +1,5 @@
+# Sustainable energy innovation compendium
+
 > We can’t solve problems by using the same kind of thinking we used when we created them.—[Albert Einstein](https://www.businessinsider.com.au/we-cant-solve-problems-by-using-the-same-kind-of-thinking-we-used-when-we-created-them-2012-4)
 
 ![Sustainable energy innovation collage](https://i.imgur.com/mQ7sXI5.jpg "Sustainable energy innovation")
