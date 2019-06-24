@@ -332,7 +332,3 @@ Redgrid will develop an app on its platform for this.
 <!-- wp:paragraph -->
 <p>There are a lot of innovations in the energy industry that can deliver many benefits. It is important that benefits are distributed equitably and not concentrated with a handful of stakeholders. It is important that non-technical and non-cost barriers to development are overcome in order to increase the uptake of renewable energy.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If I had to rank the above innovations, I'd rank Redgrid <del>Reposit Power</del> first in tandem with conventional solar and energy storage. Ubiquitous Energy, 5B and Solpod are also useful. Following that would be solar paint. While it seems like a promising technology, it is not yet commercially available just yet. Alternative battery/storage technologies such as Redflow (flow batteries), Lightsail (defunct, compressed air storage), and Gelion (zinc-bromine gel batteries) are also promising, in that they may become more economical than lithium ion batteries. </p>
-<!-- /wp:paragraph -->
