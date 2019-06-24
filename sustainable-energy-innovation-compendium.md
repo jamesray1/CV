@@ -52,7 +52,7 @@ Following is an attempted summary of some of the different kinds of innovations 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.carbontrack.com.au/">Carbon Track</a>: solar and energy appliance monitoring and control, automation, spot market trading, etc.;</p>
+<p><a href="http://www.carbontrack.com.au/">Carbon Track</a>: solar and energy appliance monitoring, control, analysis and insights; smart home automation, spot market trading, demand response management;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3648} -->
