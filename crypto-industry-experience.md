@@ -1,36 +1,11 @@
-I first got involved with the
-crypto industry when I started
-looking into peer-to-peer
-electricity trading with
-blockchains in 2017. I saw that Ethereum, a blockchain that is
-a distributed app platform, wasn't scalable, so I decided to
-contribute towards making it more scalable. In February 2019,
-after around two years of involvement with Ethereum, and not
-being able to get enough funding to sustainably support work 
-(only some advisory work and a couple of donations from 
-community members, and no grants from the Ethereum Foundation 
-for the bulk of my efforts), I started applying for jobs, and 
-found out about Holochain via a Rust developer job ad. 
-More information about the Holochain ecosystem is available via [holochain.org](https://holochain.org), [holo.host](https://holo.host), [this excellent video introduction](https://www.youtube.com/watch?v=W3X5_zAUjlw), and [the MetaCurrency Project](http://metacurrency.org/).
-
-While I
-didn't get that job, I've still been contributing. I am still 
-enthusiastic about renewable energy, but I think it's having a
-hard time scaling quickly enough to be able to phase out all 
-fossil fuel energy. The industrial-company-capitalist approach 
-has resulted in impressive growth, but again, the growth rate 
-isn't fast enough. My hope is that a distributed Web and 
-economy, powered by a secure and scalable platform such as 
-Holochain, may help to enable a transition to a fairer world.
-
 ### Further independent work and study
 Feb 2019–present
 
-General tasks involved include doing some contractual work with a few projects, applying for jobs, and study and contributing voluntarily to Holochain. I've studied [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, in order to build a decentralized Web and economy, with [democratic power relationships](https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale/2018/06/26?cn-reloaded=1&cn-reloaded=1). It has a design inspired by nature. It combines the best of decentralized technology, such as DHTs, dual pair key cryptography and signatures, hashing, and git.
+As of June I am focusing on applying for jobs, and am only spending a couple of hours per week at most on contributing to [Holochain](https://holochain.org/). 
 
-Support me via [Gitcoin](https://gitcoin.co/grants/106/holochain-core-development), [Patreon](https://www.patreon.com/), [PayPal](https://www.paypal.me/jamesray1) to develop Holochain.
+General tasks involved include doing some contractual work with a few projects, applying for jobs, and study and contributing voluntarily to Holochain. I've studied and contributed to [Holochain](https://holochain.org/), [Tender](https://www.tender.buzz/), [Katallassos](https://katallassos.com/), and other projects. I'm most interested in Holochain, as it can provide scalable distribute apps with data integrity, in order to build a decentralized Web and economy, with [democratic power relationships](https://blog.p2pfoundation.net/holochain-the-perfect-framework-for-decentralised-cooperation-at-scale/2018/06/26?cn-reloaded=1&cn-reloaded=1). It has a design inspired by nature. It combines the best of decentralized technology, such as DHTs, dual pair key cryptography and signatures, hashing, and git.
 
-The following are some ways you can see my contributions to the Holochain ecosystem with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
+The following are some ways you can see my contributions to the Holochain ecosystem: with my [Github activity](https://github.com/jamesray1), plus more community and marketing oriented contributions as follows:
 - on Medium, e.g. Holochain [pros and cons](https://medium.com/@james.ray/holochain-pros-and-cons-569973763a38?source=---------3------------------) and [Holochain economics](https://medium.com/@james.ray/holochain-economics-671ef4a66974).
 - in the Mattermost chat server at [chat.holochain.org/](https://chat.holochain.org/)
 - [Reddit](https://www.reddit.com/user/jamescray1/) (in r/holochain)
