@@ -19,4 +19,5 @@ Programming languages: mostly used [Rust](https://www.rust-lang.org/), but also 
 
 #### Education
 
-[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. Self-study: programming, crypto, SolidWorks, AutoCAD. Online courses: project management, mechanics, SCADA.
+[B Eng (Renewable Energy) (Hons)](education.md), UNSW, 2011–2014. 
+Self-study: programming, crypto, SolidWorks, AutoCAD. Online courses: project management, mechanics, SCADA.
