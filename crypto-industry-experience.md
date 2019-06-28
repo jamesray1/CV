@@ -1,5 +1,7 @@
 ### Further independent work and study
-Feb 2019–present
+2017-06–2019-06. Sydney (remote). Fintech, gossipsub, libp2p, blockchain, cryptography, sharding, Drops of Diamond, scalability; database, consensus and network protocols; Ethereum 2.0, Pocket Network, Holochain, Katallassos, Substrate, and Locale.
+
+Programming languages: mostly used Rust, but also studied and/or used Wasm, Javascript, Go, Python, and C++.
 
 As of June I am focusing on applying for jobs, and am only spending a couple of hours per week at most on contributing to [Holochain](https://holochain.org/). 
 
