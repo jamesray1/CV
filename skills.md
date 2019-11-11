@@ -1,6 +1,6 @@
 Skills include:
 
-- Renewable energy, e.g. technical support engineer, inverters, solar design, energy efficiency, data analysis, wind turbine farm feasibility analysis; and other skills from my renewable energy degree. See my [outdated academic transcript](https://www.slideshare.net/slideshow/embed_code/key/JMesqzjt4AcnW) and <a href="https://www.linkedin.com/in/jameschristopherray/">my LinkedIn profile</a>, e.g. the "courses" section.
+- Renewable energy, e.g. technical support engineer, inverters, solar design, energy efficiency, data analysis, wind turbine farm feasibility analysis; and other skills from my renewable energy degree. Feel free to view my [graduate statement](https://drive.google.com/file/d/18F3vDttVxwp3f9c6UVplVzRweKP7S4oe/view) and <a href="https://www.linkedin.com/in/jameschristopherray/">my LinkedIn profile</a>, e.g. the "courses" section.
 - Mechanical and electrical design: studied SolidWorks and AutoCAD.
 - Technical writing, proofreading;
 - Programming languages: Rust, Python, <a href="https://github.com/Drops-of-Diamond/sharding/blob/develop/smc/Sharding_Manager_Contract.v.py">Vyper</a>, Go, C++, <a href="https://gist.github.com/jamesray1/faf1bee351955317189fdf2087c22688">Javascript</a>, Wasm, VBA
